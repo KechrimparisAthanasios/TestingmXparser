@@ -81,7 +81,7 @@ namespace TestingmXparser
             generate.Join();
 
             //string p = "10^2";
-            //
+            //new
             //double u = 0.123;
             //CultureInfo danishCulture = new CultureInfo("da-DK");
             //double lp = double.Parse(u.ToString());
